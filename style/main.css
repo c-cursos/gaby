@@ -140,7 +140,8 @@ div:where(.swal2-container) button:where(.swal2-styled).swal2-cancel {
    font-size: 1.5rem !important;
 }
 .six .hat {
-  left: 41.5%;
+  /* left: 41.5%; */
+  left: 5.5%;
   position: absolute;
   transform: scale(1.1);
   /* top: -35%; */
