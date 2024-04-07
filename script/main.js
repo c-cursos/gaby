@@ -17,7 +17,7 @@ window.addEventListener('load', () => {
             animationTimeline();
         }
     });
-});
+}); 
 
 
 // animation timeline
